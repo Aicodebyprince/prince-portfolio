@@ -139,7 +139,7 @@ export const projects: Project[] = [
         shortTitle: 'Aura AI',
         shortDescription: 'AI-Powered Task Management',
         githubUrl: '#',
-        liveUrl: 'https://aura-ai-task-manager.vercel.app/',
+        liveUrl: 'https://aurataskmanager.vercel.app/',
         tags: ['Genkit', 'Gemini', 'Next.js', 'Firebase', 'Tailwind'],
         stat: 'Intelligent Task Automation',
         caseStudy: [
