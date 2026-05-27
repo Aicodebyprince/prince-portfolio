@@ -11,7 +11,7 @@ const BASE_URL = 'https://princesherathiya.com';
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: 'Prince Sherathiya — Backend Engineer & WebTurnerAI Founder',
+    default: 'Prince Sherathiya — Backend Engineer / Founder',
     template: '%s | Prince Sherathiya',
   },
   description:
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: BASE_URL,
     siteName: 'Prince Sherathiya — WebTurnerAI',
-    title: 'Prince Sherathiya — Backend Engineer & WebTurnerAI Founder',
+    title: 'Prince Sherathiya — Backend Engineer / Founder',
     description:
       'Backend systems, workflow automation, operational dashboards, and practical AI tools. Founder of WebTurnerAI.',
     images: [
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
         url: `${BASE_URL}/og-image.png`,
         width: 1200,
         height: 630,
-        alt: 'Prince Sherathiya — Backend Engineer & WebTurnerAI Founder',
+        alt: 'Prince Sherathiya — Backend Engineer / Founder',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Prince Sherathiya — Backend Engineer & WebTurnerAI Founder',
+    title: 'Prince Sherathiya — Backend Engineer / Founder',
     description:
       'Backend systems, workflow automation, dashboards, and AI tools. Founder of WebTurnerAI.',
     images: [`${BASE_URL}/og-image.png`],
